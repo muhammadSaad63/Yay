@@ -1,0 +1,2 @@
+# Wordle
+ICT Lab Project
