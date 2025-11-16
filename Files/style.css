@@ -14,15 +14,25 @@ h1{
     font-size: 35px;
 
 }
+#para:hover{
+    border: 2px solid greenyellow;
+    padding: 25px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: darkolivegreen;
+}
 p::selection{
     font-size: x-large;
     color: green;
     background-color: hsla(0, 0%, 0%, 0.75);
 }
+img{
+    border-radius: 50px;
+}
 img:hover{
     border: 2px 2px black;
-    border-radius: 20px;
-    box-shadow: 1px 1px yellow, 5px 5px orangered;
+    border-radius: 75px;
+    box-shadow: 2px 2px orangered, 7px 7px yellowgreen;
 }
 h1:hover{
     background-color: black;
@@ -33,6 +43,7 @@ h1:hover{
     font-size: 25px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     cursor: pointer;
+    box-shadow: 5px 5px yellowgreen;
 }
 
 footer{
