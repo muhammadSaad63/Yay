@@ -1,2 +1,2 @@
-# Wordle
+# Yay!
 ICT Lab Project
